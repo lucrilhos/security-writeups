@@ -2,8 +2,6 @@
 
 Meu caderno público de estudos em cibersegurança: **writeups** de máquinas e salas (TryHackMe, HackTheBox) e **notas de estudo** dos cursos que estou fazendo, escritas com as minhas palavras.
 
-> Estudante de Ciência da Computação (FIAP) em busca do primeiro estágio em segurança: pentest, análise de malware e ethical hacking. Este repositório registra a jornada, do básico de redes e Linux até as primeiras máquinas resolvidas.
-
 ---
 
 ## 🎯 O que este repositório promete
